@@ -1,0 +1,21 @@
+/*
+Theme Name: Twentysixteen Extended
+Theme URI: http://plugish.com
+Description: A custom, extended twentysixteen theme
+Author: JayWood
+Author URI: http://plugish.com
+Version: 0.1.0
+Template: twentysixteen
+*/
+
+main article, aside section, footer div.site-info{
+    padding: 15px;
+    background-color: white;
+    -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.site{
+    background-color: transparent !important;
+}
