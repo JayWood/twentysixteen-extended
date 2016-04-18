@@ -20,6 +20,10 @@ ul.primary-menu li a{
     background-color: #FFF;
 }
 
+ul.primary-menu li{
+    margin: 0 10px;
+}
+
 .site{
     background-color: transparent !important;
 }
