@@ -8,12 +8,16 @@ Version: 0.1.0
 Template: twentysixteen
 */
 
-main article, aside section, footer div.site-info{
+main article, aside section, footer div.site-info, ul.primary-menu li{
     padding: 15px;
     background-color: white;
     -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+ul.primary-menu li{
+    background-color: #FFF;
 }
 
 .site{
