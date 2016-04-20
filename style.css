@@ -23,6 +23,18 @@ div.comments-area
     background-color: #FFF;
 }
 
+
+div.nav-links,
+div.comments-area{
+    padding: 15px;
+}
+
+div.comments-area article{
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
 ul.primary-menu li{
     margin: 0 10px;
 }
