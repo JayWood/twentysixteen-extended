@@ -16,7 +16,10 @@ main article, aside section, footer div.site-info, ul.primary-menu li a{
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
-ul.primary-menu li a{
+ul.primary-menu li a,
+div.nav-links,
+div.comments-area
+{
     background-color: #FFF;
 }
 
