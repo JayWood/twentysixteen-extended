@@ -23,6 +23,9 @@ div.comments-area
     background-color: #FFF;
 }
 
+button.menu-toggle{
+    background: white;
+}
 
 div.nav-links,
 div.comments-area{
