@@ -47,5 +47,5 @@ ul.primary-menu li{
 }
 
 ul, ol{
-    margin: 0 0 1.75em 1.75em;
+    margin: 0 0 1.75em 1.75em !important;
 }
