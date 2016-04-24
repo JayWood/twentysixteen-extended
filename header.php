@@ -22,6 +22,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+<?php if ( function_exists( 'gtm4wp_the_gtm_tag' ) ) { gtm4wp_the_gtm_tag(); } ?>
 <div id="page" class="site">
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
