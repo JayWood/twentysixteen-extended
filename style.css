@@ -46,6 +46,6 @@ ul.primary-menu li{
     background-color: transparent !important;
 }
 
-ul, ol{
+#main ul, #main ol{
     margin: 0 0 1.75em 1.75em !important;
 }
